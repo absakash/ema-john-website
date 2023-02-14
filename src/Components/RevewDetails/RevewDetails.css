@@ -1,0 +1,37 @@
+.revew-container img {
+    width: 91px;
+    border-radius: 4px;
+}
+
+.revew-container {
+    padding: 4px;
+
+}
+
+.main-container {
+    display: flex;
+    width: 571px;
+    margin-left: 171px;
+    border: 3px solid orange;
+    border-radius: 4px;
+    margin: 7px auto;
+
+}
+
+.revew-details {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.revew-one {
+    margin-left: 12px;
+}
+
+.revew-two {}
+
+.revew-one p {
+    margin: 0;
+
+}

@@ -1,0 +1,31 @@
+.header-nav {
+    height: 80px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 100px 0;
+}
+
+.active {
+    text-decoration: underline;
+    background-color: blueviolet;
+    border-radius: 6px;
+
+}
+
+
+
+.header-nav a {
+    font-size: 18px;
+    text-decoration: none;
+    margin-left: 20px;
+    color: white;
+}
+
+.header-nav a:hover {
+
+    color: orange;
+    transition: 0.5s;
+
+}
